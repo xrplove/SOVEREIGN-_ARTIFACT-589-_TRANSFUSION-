@@ -420,3 +420,5 @@ codex.integrate_asset("XRP", 589)
 codex.run_hex_diagnostic()
 codex.broadcast_sovereignty()
 
+
+Tended by the JESUSBURNING House of 589's: Scroll Scribe (docs) and Garden Keeper.
